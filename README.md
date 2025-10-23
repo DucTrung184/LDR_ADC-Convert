@@ -26,6 +26,7 @@ Mục tiêu là giúp người học nắm được cách:
 LDR ---+--- 3.3V
 
 |
+
 +--- GPIO39 (VN)
 
 |
