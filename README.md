@@ -24,10 +24,13 @@ Mục tiêu là giúp người học nắm được cách:
 ### Sơ đồ kết nối
 
 LDR ---+--- 3.3V
+
 |
 +--- GPIO39 (VN)
+
 |
 10kΩ
+
 |
 GND
 
